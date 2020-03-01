@@ -3,3 +3,18 @@
 ################################################################################
 
 /.vs
+/project3/bin/Debug
+/project3/obj/Debug
+/project3/Properties/AssemblyInfo.cs
+/project3/App.config
+/project3/project3.csproj
+/project2/bin/Debug
+/project2/obj/Debug
+/project2/Properties/AssemblyInfo.cs
+/project2/App.config
+/project2/project2.csproj
+/project1/bin/Debug
+/project1/obj/Debug
+/project1/Properties/AssemblyInfo.cs
+/project1/project1.csproj
+/project1/App.config
